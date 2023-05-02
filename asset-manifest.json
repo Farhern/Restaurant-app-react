@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/restourant-app-react/static/css/main.23470c72.css",
-    "main.js": "/restourant-app-react/static/js/main.7cdb7e18.js",
-    "index.html": "/restourant-app-react/index.html",
-    "main.23470c72.css.map": "/restourant-app-react/static/css/main.23470c72.css.map",
-    "main.7cdb7e18.js.map": "/restourant-app-react/static/js/main.7cdb7e18.js.map"
+    "main.css": "/restourant-app/static/css/main.23470c72.css",
+    "main.js": "/restourant-app/static/js/main.7cdb7e18.js",
+    "index.html": "/restourant-app/index.html",
+    "main.23470c72.css.map": "/restourant-app/static/css/main.23470c72.css.map",
+    "main.7cdb7e18.js.map": "/restourant-app/static/js/main.7cdb7e18.js.map"
   },
   "entrypoints": [
     "static/css/main.23470c72.css",
